@@ -1,5 +1,5 @@
 # 3D-Virtual-Training-Coach
-This repository contains code for the methods described in the following [paper](https://github.com/Nick22ll/Virtual-Training-Coach/blob/main/RelazioneIVA.pdf).<br>
+This repository contains code for the methods described in the following [paper](https://github.com/Nick22ll/Virtual-Training-Coach/blob/main/Relazione.pdf).<br>
 The code extract 3D skeletons through [MeTRAbs](https://github.com/isarandi/metrabs) from homemade videos frames to establish which parts of a fitness exercise are not correctly executed.
 
 ## System Requirements
