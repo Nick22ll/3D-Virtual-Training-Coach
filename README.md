@@ -1,5 +1,5 @@
 # 3D-Virtual-Training-Coach
-This repository contains code for the methods described in the following [paper](https://github.com/Nick22ll/Virtual-Training-Coach/blob/main/RelazioneIVA.pdf).<br>
+This repository contains code for the methods described in the following [paper](https://github.com/Nick22ll/Virtual-Training-Coach/blob/main/Relazione.pdf).<br>
 The code extract 3D skeletons through [MeTRAbs](https://github.com/isarandi/metrabs) from homemade videos frames to establish which parts of a fitness exercise are not correctly executed.
 
 ## System Requirements
@@ -21,4 +21,4 @@ Finally choose an exercise to analyze with one of the metrics defined in the [pa
 * **identify_combined_errors()**.
 
 ## Running Sample
-You can try it in action using the **try_me( *frames_path* )**:make sure that the **Frames** directory contains a sub-directory of the specific exercise frames, i.e *Frames/arm-clap_1/frame.jpg*.
+You can try it in action using the **try_me( *frames_path* )**: make sure that the **Frames** directory contains a sub-directory of the specific exercise frames, i.e *Frames/arm-clap_1/frame.jpg*.
