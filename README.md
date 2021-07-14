@@ -23,7 +23,7 @@ Finally choose an exercise to analyze with one of the metrics defined in the [pa
 ## Running Sample
 You can try it in action using the **try_me()** method: it will guide you to run the code in a user friendly way with a minimal graphic interface.
 <p align="center"><img src=Images/BrowseWindow.png width="60%"></p>
-How to use:
+How to use:<br>
 1. Select the directory containing the frame exercises directories;<br>
 2. Choose an exercise from the list;<br>
 3. Click on Next!<br>
